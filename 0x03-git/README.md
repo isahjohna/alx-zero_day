@@ -1,1 +1,2 @@
-Stating to code
+Starting to code.
+Code editted from github interface.
